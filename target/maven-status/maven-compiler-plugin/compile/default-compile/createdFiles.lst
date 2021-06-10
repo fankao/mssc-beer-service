@@ -1,0 +1,5 @@
+fankao/spring/msscbeerservice/MsscBeerServiceApplication.class
+fankao/spring/msscbeerservice/web/model/BeerStyleEnum.class
+fankao/spring/msscbeerservice/web/model/BeerPagedListDto.class
+fankao/spring/msscbeerservice/web/model/BeerDto.class
+fankao/spring/msscbeerservice/web/model/BeerDto$BeerDtoBuilder.class
